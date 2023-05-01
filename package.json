@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "luxon": "^3.3.0"
+  },
+  "devDependencies": {
+    "babel-loader": "^9.1.2"
+  }
 }
