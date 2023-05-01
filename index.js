@@ -23,10 +23,9 @@ document.querySelector('#bookOfList').addEventListener('click', (e) => {
   Book.removeBook(e.target.previousElementSibling.textContent);
 });
 
-// Get current date and display it 
+// Get current date and display it
 const date = DateTime.now().toLocaleString(DateTime.DATE_FULL);
 document.querySelector('#date').textContent = date;
-
 
 //  navigation
 
