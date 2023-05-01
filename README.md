@@ -161,7 +161,7 @@ I would like to thank Microverse team, coding partners for the amazing collobrat
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/rachaouldbabaali/awsome-books-ES6/license) licensed.
+This project is [MIT](https://github.com/rachaouldbabaali/awsome-books-ES6/blob/add-modules/LICENSE) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
