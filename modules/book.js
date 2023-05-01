@@ -12,7 +12,6 @@ export default class Book {
     } else {
       books = JSON.parse(localStorage.getItem('books'));
     }
-    // console.log(books);
     return books;
   }
 
@@ -21,7 +20,6 @@ export default class Book {
     const books = Book.getBooks();
     books.push(book);
     localStorage.setItem('books', JSON.stringify(books));
-    // console.log(books);
   }
 
   // removeBook method
