@@ -1,4 +1,3 @@
-// module-2 week-1 - 24 April 2023
 
 import Book from './modules/book.js';
 
